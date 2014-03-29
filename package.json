@@ -1,0 +1,25 @@
+{
+  "name": "gulp-exit",
+  "version": "0.0.1",
+  "description": "Terminates gulp task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dreame4/gulp-exit.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "exit",
+    "terminate"
+  ],
+  "author": "Adam Babik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreame4/gulp-exit/issues"
+  },
+  "homepage": "https://github.com/dreame4/gulp-exit"
+}
